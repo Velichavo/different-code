@@ -1,0 +1,11 @@
+C:\Users\mastin\source\repos\TestEvents\obj\Debug\netcoreapp3.1\TestEvents.csprojAssemblyReference.cache
+C:\Users\mastin\source\repos\TestEvents\obj\Debug\netcoreapp3.1\TestEvents.AssemblyInfoInputs.cache
+C:\Users\mastin\source\repos\TestEvents\obj\Debug\netcoreapp3.1\TestEvents.AssemblyInfo.cs
+C:\Users\mastin\source\repos\TestEvents\bin\Debug\netcoreapp3.1\TestEvents.exe
+C:\Users\mastin\source\repos\TestEvents\bin\Debug\netcoreapp3.1\TestEvents.deps.json
+C:\Users\mastin\source\repos\TestEvents\bin\Debug\netcoreapp3.1\TestEvents.runtimeconfig.json
+C:\Users\mastin\source\repos\TestEvents\bin\Debug\netcoreapp3.1\TestEvents.runtimeconfig.dev.json
+C:\Users\mastin\source\repos\TestEvents\bin\Debug\netcoreapp3.1\TestEvents.dll
+C:\Users\mastin\source\repos\TestEvents\bin\Debug\netcoreapp3.1\TestEvents.pdb
+C:\Users\mastin\source\repos\TestEvents\obj\Debug\netcoreapp3.1\TestEvents.dll
+C:\Users\mastin\source\repos\TestEvents\obj\Debug\netcoreapp3.1\TestEvents.pdb
